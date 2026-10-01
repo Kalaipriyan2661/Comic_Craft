@@ -1,0 +1,1 @@
+function nextStory(){s1.innerHTML='🦸 The hero hears people calling for help.';s2.innerHTML='👾 The monster attacks the city.';s3.innerHTML='🎉 The hero saves everyone!';}
